@@ -1,5 +1,5 @@
 package madvirus.spring.chap07.controller;
-
+//test
 public class Address {
 
 	private String address1;
